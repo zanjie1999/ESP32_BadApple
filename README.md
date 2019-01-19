@@ -1,4 +1,8 @@
 # ESP32_BadApple
+后期给这个东西加上音乐
+
+这个坑先挖在这里
+
 Bad Apple video by Touhou on ESP32 with SSD1306 OLED, uses the Heatshrink compression library to decompress the RLE encoded video data.
 First version, no sound yet, video only.
 
